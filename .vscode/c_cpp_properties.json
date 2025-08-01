@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        },
+        {
+            "name": "{   \"version\": \"0.2.0\",   \"configurations\": [     {       \"name\": \"Vite + Chrome Debug\",       \"type\": \"chrome\",       \"request\": \"launch\",       \"url\": \"http://localhost:5173\",       \"webRoot\": \"${workspaceFolder}/src\",       \"breakOnLoad\": true,       \"sourceMaps\": true,       \"trace\": true     }   ] }",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        },
+        {
+            "name": "\"name\": \"Vite + Chrome Debug\"",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Aisha Sharma",
+    "specialization": "Cardiologist",
+    "status": "Available Today",
+    "image": "/doctor1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Dr. Rajeev Mehta",
+    "specialization": "Neurologist",
+    "status": "Fully Booked",
+    "image": "/doctor2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Dr. Nisha Patel",
+    "specialization": "Dermatologist",
+    "status": "On Leave",
+    "image": "/doctor3.jpg"
+  }
+]
